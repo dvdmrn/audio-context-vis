@@ -1,0 +1,9 @@
+.videoFeed{
+	visibility: hidden;
+	height: 0px;
+	width: 0px;
+}
+
+.particle{
+	background-blend-mode: multiply;
+}
